@@ -1,0 +1,23 @@
+{
+  "name": "webx39-magnifier",
+  "version": "1.0.0",
+  "description": "Gulp and SAss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lkabeer/webX35.git"
+  },
+  "author": "X-Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lkabeer/webX35/issues"
+  },
+  "homepage": "https://github.com/Lkabeer/webX35#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-sass": "^3.2.1"
+  }
+}

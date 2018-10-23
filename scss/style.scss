@@ -1,0 +1,20 @@
+$mainX: #f8f7fc;
+
+@font-face {
+    font-family: fontX;
+    src: url('../assets/KaushanScriptX.ttf');
+}
+
+body {
+    margin: 0;
+    background-color: $mainX;
+    color: #000;
+    font: 2em fontX;
+
+    height: 100vh;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
